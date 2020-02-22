@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bluetooth_test</string>
+    <string name="search_button">search</string>
+    <string name="stop_button">stop</string>
+</resources>

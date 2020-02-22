@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">蓝牙查找</string>
+    <string name="find_device">寻找设备</string>
+    <string name="find_stop">停止寻找</string>
+</resources>

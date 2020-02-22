@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:baselineAligned="false"
+
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+    <ListView
+        android:id="@+id/device_list2"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:divider="#E90D2B"
+        android:layout_weight="1"
+        android:dividerHeight="1px" />
+
+    <ListView
+        android:id="@+id/device_list"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:divider="#E90D2B"
+        android:layout_weight="1"
+        android:dividerHeight="1px">
+
+    </ListView>
+
+
+</LinearLayout>
